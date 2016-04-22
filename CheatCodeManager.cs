@@ -9,7 +9,7 @@ public class CheatCodeManager : MonoBehaviour
 	//array of all cheatcodes you want in the game	
 	public string[] targetCode;
 	
-	List<string> inputCode = new List<string>();
+	public List<string> inputCode = new List<string>();
 	string currentCode;
 	
 	void Update()
