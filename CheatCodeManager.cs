@@ -6,7 +6,7 @@ public class CheatCodeManager : MonoBehaviour
 {
 	[Header("CHEAT CODES, LOL!")]
 	
-  //array of all cheatcodes you want in the game	
+	//array of all cheatcodes you want in the game	
 	public string[] targetCode;
 	
 	List<string> inputCode = new List<string>();
@@ -45,7 +45,7 @@ public class CheatCodeManager : MonoBehaviour
 			//stuff that you want the game to do when the code "nyancat" is entered
 			break;
 
-			//add a new case for every code
+			//add a new case for each code
 		}
 	}
 }
