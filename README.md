@@ -1,4 +1,4 @@
-# CheatCodeManagerForUnity
+# Cheat Code Manager For Unity
 This script keeps track of specific keyboard input (letters/alphabets and directional keys) in the scene and triggers relevant cheat methods if the correct cheat code is entered. Very basic script. Not optimised.
 
 # How to?
